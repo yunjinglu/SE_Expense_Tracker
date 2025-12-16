@@ -20,13 +20,14 @@
 
 ## 專案目錄結構
 SE_Expense_Tracker/
-├── expense_input.py # 費用輸入模組
-├── expense_viz.py # 費用視覺化模組（圓餅圖）
-├── expenses.csv # 費用資料檔
-├── pie_chart.png # 範例圓餅圖輸出
-└── README.md
+<br>├── expense_input.py # 費用輸入模組
+<br>├── expense_viz.py # 費用視覺化模組（圓餅圖）
+<br>├── expenses.csv # 費用資料檔
+<br>├── pie_chart.png # 範例圓餅圖輸出
+<br>└── README.md
 
 ## 圖示結果
--合併結果 : <img width="1090" height="673" alt="image" src="https://github.com/user-attachments/assets/3906ea36-7c51-4510-a1e6-c2f6a14d57e6" />
--視覺化圓餅圖 : <img width="1600" height="1600" alt="image" src="https://github.com/user-attachments/assets/8ecd947e-1e71-466d-9b97-a76824e7b3ef" />
+-合併結果 : <img width="60%" alt="image" src="https://github.com/user-attachments/assets/3906ea36-7c51-4510-a1e6-c2f6a14d57e6" />
+-視覺化圓餅圖 : <img width="60%" alt="image" src="https://github.com/user-attachments/assets/8ecd947e-1e71-466d-9b97-a76824e7b3ef" />
+-影片連結 : https://youtu.be/21GiDT2o-Jc
 
