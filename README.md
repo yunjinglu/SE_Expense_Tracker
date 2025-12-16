@@ -29,8 +29,8 @@ SE_Expense_Tracker/
 
 ## 圖示結果
 合併結果 : 
-<img width="60%" alt="image" src="https://github.com/user-attachments/assets/3906ea36-7c51-4510-a1e6-c2f6a14d57e6" />
+<br><img width="60%" alt="image" src="https://github.com/user-attachments/assets/3906ea36-7c51-4510-a1e6-c2f6a14d57e6" />
 <br>視覺化圓餅圖 : 
-<img width="60%" alt="image" src="https://github.com/user-attachments/assets/8ecd947e-1e71-466d-9b97-a76824e7b3ef" />
+<br><img width="60%" alt="image" src="https://github.com/user-attachments/assets/8ecd947e-1e71-466d-9b97-a76824e7b3ef" />
 <br>影片連結 : https://youtu.be/21GiDT2o-Jc
 
