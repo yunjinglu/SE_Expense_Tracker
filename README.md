@@ -16,8 +16,8 @@
 * 依照分類產生費用比例圓餅圖
 
 ## 分工
--feature-input : 費用輸入模組(呂昀靜)
--feature-piechart : 費用視覺化模組(藍昱璇)
+feature-input : 費用輸入模組(呂昀靜)
+<br>feature-piechart : 費用視覺化模組(藍昱璇)
 
 ## 專案目錄結構
 SE_Expense_Tracker/
